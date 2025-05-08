@@ -82,50 +82,50 @@ padding-bottom: 20px;
      margin-top: 25px;
 }
 
-/*.CFD-img{
+.CFD-img{
     border-radius: 100%;
     width: 30%;
     float: right;
     margin-right: 30px;
     margin-bottom: 45px;
-}*/
+}
 
-.CFD-img {
+/*.CFD-img {
   border-radius: 100%;
   width: 30%;
   margin: 0;
-  float: none; /* Disable float */
-}
+  float: none; 
+}*/
 
-/*.Plant-img{
+.Plant-img{
     border-radius: 100%;
     width: 30%;
     float: right;
-    margin-right: 30px;
+    margin-right: 20px;
     margin-top: 20px;
-}*/
+}
 
-.Plant-img {
+/*.Plant-img {
   border-radius: 100%;
   width: 30%;
   margin: 0;
-  float: none; /* Disable float */
-}
+  float: none; 
+}*/
 
-/*.skill-row{
+.skill-row{
     margin: 60px auto 60px auto;
     width: 50%;
     text-align: left;
 
-}*/
-.skill-row {
+}
+/*.skill-row {
   display: flex;
-  align-items: flex-start; /* Aligns top edges */
+  align-items: flex-start; 
   justify-content: space-between;
   margin: 60px auto;
   width: 50%;
   gap: 30px;
-}
+}*/
 
 
 
