@@ -79,33 +79,55 @@ padding-bottom: 20px;
      margin-right: 30px;
      bottom: clear;
      margin-bottom: 45px;
-     margin-top: 20px;
+     margin-top: 25px;
 }
 
-.CFD-img{
-   /* width: 300px;
-    height: 167px;*/
+/*.CFD-img{
     border-radius: 100%;
     width: 30%;
     float: right;
     margin-right: 30px;
     margin-bottom: 45px;
+}*/
+
+.CFD-img {
+  border-radius: 100%;
+  width: 30%;
+  margin: 0;
+  float: none; /* Disable float */
 }
 
-.Plant-img{
+/*.Plant-img{
     border-radius: 100%;
     width: 30%;
     float: right;
     margin-right: 30px;
     margin-top: 20px;
+}*/
+
+.Plant-img {
+  border-radius: 100%;
+  width: 30%;
+  margin: 0;
+  float: none; /* Disable float */
 }
 
-.skill-row{
+/*.skill-row{
     margin: 60px auto 60px auto;
     width: 50%;
     text-align: left;
 
+}*/
+.skill-row {
+  display: flex;
+  align-items: flex-start; /* Aligns top edges */
+  justify-content: space-between;
+  margin: 60px auto;
+  width: 50%;
+  gap: 30px;
 }
+
+
 
 .descritpion{
     margin: auto;
