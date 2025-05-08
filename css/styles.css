@@ -119,11 +119,10 @@ padding-bottom: 20px;
     margin: 80px auto 80px auto;*/
 }
 .dotted {
-    border: none;
-    border-top: dotted 10px;
-    width: 5%;                  /* Approx. 7 dots */
-    border-color: lightgrey;
-    margin: 80px auto;          /* Center it */
+  border: none;
+  border-top: 3px dotted lightgrey;
+  width: 120px;         /* Approx 7 dots at standard zoom */
+  margin: 80px auto;    /* Centered with spacing */
 }
 
 .footer{
