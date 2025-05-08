@@ -125,6 +125,14 @@ padding-bottom: 20px;
   margin: 80px auto;    /* Centered with spacing */
 }
 
+.dot-separator {
+  text-align: center;
+  font-size: 24px;
+  color: lightgrey;
+  margin: 80px auto;
+  letter-spacing: 10px;
+}
+
 .footer{
     color: #EAF6F6;
     font-size: 0.75rem;
